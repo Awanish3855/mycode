@@ -18,11 +18,11 @@ I’m a developer focused on learning by building real projects and improving ev
 > Pin your best 4–6 repositories on your GitHub profile for quick visibility.
 
 - **mycode** — Starter repository and early Git/GitHub practice.
-- Add your next top projects here with specific one-line summaries.
+- More featured projects will be added here as they are completed.
 
 ## 🏆 Achievements & Certifications
 - ✅ Completed foundational Git and GitHub workflow practice
-- 🎯 Add your certifications, hackathons, or milestones here
+- 🎯 Certifications and hackathon milestones will be added here.
 
 ## 📊 GitHub Stats (Optional)
 ![GitHub stats showing overall contributions and activity](https://github-readme-stats.vercel.app/api?username=Awanish3855&show_icons=true&theme=default)
