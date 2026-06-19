@@ -27,14 +27,13 @@ I’m a developer focused on learning by building real projects and improving ev
 - 🎯 Add your certifications, hackathons, or milestones here
 
 ## 📊 GitHub Stats (Optional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awanish3855&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awanish3855&layout=compact&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=Awanish3855&theme=default)
+![GitHub contribution stats for Awanish3855](https://github-readme-stats.vercel.app/api?username=Awanish3855&show_icons=true&theme=default)
+![Most used languages by Awanish3855](https://github-readme-stats.vercel.app/api/top-langs/?username=Awanish3855&layout=compact&theme=default)
+![Current GitHub activity streak for Awanish3855](https://streak-stats.demolab.com?user=Awanish3855&theme=default)
 
 ## 📫 Contact
 - GitHub: [@Awanish3855](https://github.com/Awanish3855)
-- LinkedIn: Add your LinkedIn profile link
-- Email: Add your professional email
+- LinkedIn & Email: available on request
 
 ---
 Thanks for visiting my profile!  
