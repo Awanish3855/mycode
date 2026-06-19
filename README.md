@@ -18,9 +18,7 @@ I’m a developer focused on learning by building real projects and improving ev
 > Pin your best 4–6 repositories on your GitHub profile for quick visibility.
 
 - **mycode** — Starter repository and early Git/GitHub practice.
-- **Project 2** — Add your best project here with a one-line description.
-- **Project 3** — Add your best project here with a one-line description.
-- **Project 4** — Add your best project here with a one-line description.
+- Add your next top projects here with specific one-line summaries.
 
 ## 🏆 Achievements & Certifications
 - ✅ Completed foundational Git and GitHub workflow practice
@@ -33,7 +31,7 @@ I’m a developer focused on learning by building real projects and improving ev
 
 ## 📫 Contact
 - GitHub: [@Awanish3855](https://github.com/Awanish3855)
-- LinkedIn & Email: available on request
+- Reach out via GitHub profile message or by opening an issue in this repository.
 
 ---
 Thanks for visiting my profile!  
